@@ -36,7 +36,7 @@ const AboutSection = () => {
                 working at the intersection of machine learning and system design to solve real-world problems.
               </p>
               <p className="text-muted-foreground mb-6">
-                When I'm not coding, I’m learning about cybersecurity, exploring new AI models, 
+                When I'm not coding, I'm learning about cybersecurity, exploring new AI models, 
                 or refining personal projects that challenge my skills.
               </p>
               
