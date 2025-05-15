@@ -9,7 +9,7 @@ const Footer = () => {
       <div className="container mx-auto px-4">
         <div className="flex flex-col items-center md:flex-row md:justify-between">
           <div className="mb-6 md:mb-0">
-            <h3 className="text-lg font-bold">Your Name</h3>
+            <h3 className="text-lg font-bold">Anshdeep Rawat</h3>
             <p className="mt-2 text-sm text-muted-foreground">
               Building amazing digital experiences
             </p>

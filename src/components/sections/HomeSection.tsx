@@ -16,10 +16,10 @@ const HomeSection = () => {
       <div className="container mx-auto px-4">
         <div className="max-w-3xl mx-auto text-center">
           <h1 className="text-4xl md:text-5xl lg:text-7xl font-bold mb-6 animate-fade-in">
-            Hi, I'm <span className="text-primary">Your Name</span>
+            Hi, I'm <span className="text-primary">Ansshdeep Rawat</span>
           </h1>
           <p className="text-xl md:text-2xl mb-8 text-muted-foreground animate-fade-in" style={{ animationDelay: "0.2s" }}>
-            Web Developer & Designer
+            The Cybersecurity Guy
           </p>
           <div className="animate-fade-in" style={{ animationDelay: "0.4s" }}>
             <button
