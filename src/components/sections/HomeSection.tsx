@@ -16,7 +16,7 @@ const HomeSection = () => {
       <div className="container mx-auto px-4">
         <div className="max-w-3xl mx-auto text-center">
           <h1 className="text-4xl md:text-5xl lg:text-7xl font-bold mb-6 animate-fade-in">
-            Hi, I'm <span className="text-primary">Ansshdeep Rawat</span>
+            Hi, I'm <span className="text-primary">Anshdeep Rawat</span>
           </h1>
           <p className="text-xl md:text-2xl mb-8 text-muted-foreground animate-fade-in" style={{ animationDelay: "0.2s" }}>
             The Cybersecurity Guy
