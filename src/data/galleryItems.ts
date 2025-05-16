@@ -66,7 +66,7 @@ export const galleryItems: GalleryItem[] = [
   },
   {
     id: 4,
-    src: "https://raw.githubusercontent.com/GLCRealm/My-Portfolio/main/public/photos/five.jpg",
+    src: "https://raw.githubusercontent.com/GLCRealm/My-Portfolio/main/public/photos/five.JPG",
     alt: "Public Intraction",
     type: "image",
   },
