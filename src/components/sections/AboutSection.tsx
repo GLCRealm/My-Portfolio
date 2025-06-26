@@ -65,7 +65,7 @@ const AboutSection = () => {
               
               {/* this is for frontend developer */}
               <p className="text-muted-foreground mb-6">
-                I'm a frontend developer and AI enthusiast with hands-on experience crafting dynamic, responsive, and accessible user interfaces. I specialize in building intuitive web experiences, integrating APIs seamlessly, and bringing designs to life with performance in mind.
+                I'm a frontend developer and AI enthusiast with hands-on experience crafting dynamic, responsive, and accessible user interfaces.
               </p>
               <p className="text-muted-foreground mb-6">
                 When I'm not coding, I'm diving into UI/UX trends, experimenting with new JavaScript frameworks, or pushing the limits of web animation and frontend performance through side projects.
