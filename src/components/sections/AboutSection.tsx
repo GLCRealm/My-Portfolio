@@ -1,12 +1,32 @@
 
 const AboutSection = () => {
+  // for backend development
+
+  // const skills = [
+  //   "Python",
+  //   "C",
+  //   "C++",
+  //   "MySQL",
+  //   "Java",
+  //   "JavaScript", 
+  //   "HTML",
+  //   "Machine Learning",
+  //   "Blockchain Technology",
+  //   "CyberSecurity",
+  //   "RESTful APIs",
+  // ];
+
+  //for frontend development
   const skills = [
+    "JavaScript",
+    "Next.js",
+    "Node.js",
+    "React",
     "Python",
     "C",
     "C++",
     "MySQL",
-    "Java",
-    "JavaScript", 
+    "Java", 
     "HTML",
     "Machine Learning",
     "Blockchain Technology",
@@ -28,9 +48,12 @@ const AboutSection = () => {
               />
             </div>
             
-            <div>
+            <div>             
+                
               <h3 className="text-2xl font-semibold mb-4">Anshdeep Rawat</h3>
-              <p className="text-muted-foreground mb-6">
+              
+              {/* this is for backend developer */}
+              {/* <p className="text-muted-foreground mb-6">
                 I'm a backend developer and AI enthusiast with hands-on experience 
                 building scalable systems, secure APIs, and NLP-powered tools. I enjoy 
                 working at the intersection of machine learning and system design to solve real-world problems.
@@ -38,6 +61,15 @@ const AboutSection = () => {
               <p className="text-muted-foreground mb-6">
                 When I'm not coding, I'm learning about cybersecurity, exploring new AI models, 
                 or refining personal projects that challenge my skills.
+              </p> */}
+              
+              {/* this is for frontend developer */}
+              <p className="text-muted-foreground mb-6">
+                I'm a frontend developer and AI enthusiast with hands-on experience crafting dynamic, responsive, and accessible user interfaces. I specialize in building intuitive web experiences, integrating APIs seamlessly, and bringing designs to life with performance in mind.
+                I love working at the crossroads of design, interactivity, and emerging technologies to create user-centric solutions that solve real-world problems.
+              </p>
+              <p className="text-muted-foreground mb-6">
+                When I'm not coding, I'm diving into UI/UX trends, experimenting with new JavaScript frameworks, or pushing the limits of web animation and frontend performance through side projects.
               </p>
               
               <div>

@@ -19,7 +19,7 @@ const HomeSection = () => {
             Hi, I'm <span className="text-primary">Anshdeep Rawat</span>
           </h1>
           <p className="text-xl md:text-2xl mb-8 text-muted-foreground animate-fade-in" style={{ animationDelay: "0.2s" }}>
-            The Cybersecurity Guy
+            The Developer
           </p>
           <div className="animate-fade-in" style={{ animationDelay: "0.4s" }}>
             <button
